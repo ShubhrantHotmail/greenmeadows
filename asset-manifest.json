@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/greenmeadows/static/css/main.073c9b0a.css",
-    "main.js": "/greenmeadows/static/js/main.34bc7a21.js",
+    "main.js": "/greenmeadows/static/js/main.d9e4c305.js",
     "static/js/787.da11a42f.chunk.js": "/greenmeadows/static/js/787.da11a42f.chunk.js",
     "index.html": "/greenmeadows/index.html",
     "main.073c9b0a.css.map": "/greenmeadows/static/css/main.073c9b0a.css.map",
-    "main.34bc7a21.js.map": "/greenmeadows/static/js/main.34bc7a21.js.map",
+    "main.d9e4c305.js.map": "/greenmeadows/static/js/main.d9e4c305.js.map",
     "787.da11a42f.chunk.js.map": "/greenmeadows/static/js/787.da11a42f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.34bc7a21.js"
+    "static/js/main.d9e4c305.js"
   ]
 }
